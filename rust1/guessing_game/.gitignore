@@ -1,0 +1,19 @@
+# Rust build output
+/target/
+
+# Cargo lock (chỉ ignore nếu là library)
+# Cargo.lock
+
+# Rust formatter
+rustfmt.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
